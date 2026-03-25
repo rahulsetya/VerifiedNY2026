@@ -3,10 +3,10 @@
 // ============================================================
 const CONFIG = {
     // Replace with your Azure AD Application (client) ID
-    clientId: 'YOUR_CLIENT_ID_HERE',
+    clientId: '2a17dd5e-6404-4a1b-abcc-dd1cb41a0c8b',
 
     // Your Azure AD tenant ID (found in Azure Portal > Azure Active Directory > Overview)
-    tenantId: 'YOUR_TENANT_ID_HERE',
+    tenantId: '5c357d2f-916a-4262-8702-1f4e24bdf62a',
 
     // The SharePoint file item ID (extracted from your URL)
     fileItemId: 'b5dc051b-583e-402c-910a-6e5769f27221',
